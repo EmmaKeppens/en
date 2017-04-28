@@ -8,7 +8,7 @@
       "styling": {}
     },
     "versionFirst": "3.8.6",
-    "uniqCompNum": 50,
+    "uniqCompNum": 51,
     "versionPublish": "3.12.1",
     "favicon": "",
     "noImageResize": ""
@@ -62,7 +62,7 @@
           },
           "title": "EMMA KEPPENS",
           "text": "Graphic Design",
-          "buttons": " <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default animated fadeInUp delay\" href=\"werk.html\" data-toolbar=\"-mbrBtnMove\">WORK</a>   <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default animated fadeInUp delay\" href=\"work.html\" data-toolbar=\"-mbrBtnMove\">ABOUT</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default animated fadeInUp delay\" href=\"work.html\" data-toolbar=\"-mbrBtnMove\">CONTACT</a>"
+          "buttons": " <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default animated fadeInUp delay\" href=\"werk.html\" data-toolbar=\"-mbrBtnMove\">WORK</a>   <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default animated fadeInUp delay\" href=\"about.html\" data-toolbar=\"-mbrBtnMove\">ABOUT</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default animated fadeInUp delay\" href=\"work.html\" data-toolbar=\"-mbrBtnMove\">CONTACT</a>"
         }
       ]
     },
@@ -1223,6 +1223,62 @@
           },
           "_anchor": "slider2-1d",
           "articleLayout": true
+        }
+      ]
+    },
+    "about.html": {
+      "settings": {
+        "title": "Web Generator Title",
+        "meta_descr": "Web Generator Description"
+      },
+      "components": [
+        {
+          "_inherit": "msg-box3",
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "text-align": "center",
+              "color": "#fff"
+            },
+            ".mbr-header .mbr-header__subtext": {
+              "text-align": "center",
+              "color": "#fff"
+            },
+            ".mbr-article": {
+              "color": "#fff",
+              "text-align": "center"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content5",
+          "_anchor": "content5-1e",
+          "_params": {
+            "showCaption": "noCaption",
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "showTitle": true,
+            "showText": true,
+            "showButton": false,
+            "bgImageRadio": true,
+            "parallax": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/p5070003-2000x1500.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.2,
+            "overlayColor": "#28324e",
+            "showMeta": false,
+            "darkBackground": true
+          },
+          "title": "EMMA KEPPENS",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "Graphic Designer Belgium, Ghent. 20 years old.",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>"
         }
       ]
     }
