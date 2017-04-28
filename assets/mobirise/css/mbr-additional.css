@@ -1,11 +1,55 @@
+@import url(https://fonts.googleapis.com/css?family=Arimo:400,700);
 #header4-0 H1 {
   color: #ffffff;
 }
 #header4-0 P {
   color: #ffffff;
 }
+
+
+#features1-s P {
+  text-align: left;
+}
 #features1-11 P {
   text-align: center;
+}
+#ext_menu-1f .mbr-brand__name {
+  font-size: 16px;
+}
+#ext_menu-1f.mbr-navbar--stuck .mbr-navbar__section {
+  background: #efefef;
+}
+#ext_menu-1f .mbr-navbar__section {
+  background: #efefef;
+}
+#ext_menu-1f .mbr-navbar__hamburger {
+  color: #ffffff;
+}
+#ext_menu-1f .mbr-brand__name a {
+  font-family: 'Arimo', sans-serif;
+}
+#ext_menu-1f .mbr-navbar__items a {
+  font-family: 'Arimo', sans-serif;
+}
+
+
+#ext_menu-1i .mbr-brand__name {
+  font-size: 16px;
+}
+#ext_menu-1i.mbr-navbar--stuck .mbr-navbar__section {
+  background: #efefef;
+}
+#ext_menu-1i .mbr-navbar__section {
+  background: #efefef;
+}
+#ext_menu-1i .mbr-navbar__hamburger {
+  color: #ffffff;
+}
+#ext_menu-1i .mbr-brand__name a {
+  font-family: 'Arimo', sans-serif;
+}
+#ext_menu-1i .mbr-navbar__items a {
+  font-family: 'Arimo', sans-serif;
 }
 #menu-16 .mbr-brand__name {
   font-size: 16px;
@@ -36,4 +80,24 @@
 #content5-1e .mbr-article {
   color: #fff;
   text-align: center;
+}
+
+
+#ext_menu-1i .mbr-brand__name {
+  font-size: 16px;
+}
+#ext_menu-1i.mbr-navbar--stuck .mbr-navbar__section {
+  background: #efefef;
+}
+#ext_menu-1i .mbr-navbar__section {
+  background: #efefef;
+}
+#ext_menu-1i .mbr-navbar__hamburger {
+  color: #ffffff;
+}
+#ext_menu-1i .mbr-brand__name a {
+  font-family: 'Arimo', sans-serif;
+}
+#ext_menu-1i .mbr-navbar__items a {
+  font-family: 'Arimo', sans-serif;
 }
