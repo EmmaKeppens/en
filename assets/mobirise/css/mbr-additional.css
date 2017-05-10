@@ -13,6 +13,9 @@
 #features1-11 P {
   text-align: center;
 }
+#features1-11 .mbr-section__col .mbr-header__text {
+  text-align: right;
+}
 #ext_menu-1f .mbr-brand__name {
   font-size: 16px;
 }
@@ -51,27 +54,131 @@
 #ext_menu-1i .mbr-navbar__items a {
   font-family: 'Arimo', sans-serif;
 }
-#menu-16 .mbr-brand__name {
+
+
+#ext_menu-1i .mbr-brand__name {
   font-size: 16px;
 }
-#menu-16.mbr-navbar--stuck .mbr-navbar__section {
-  background: #2c2c2c;
+#ext_menu-1i.mbr-navbar--stuck .mbr-navbar__section {
+  background: #efefef;
 }
-#menu-16 .mbr-navbar__hamburger {
+#ext_menu-1i .mbr-navbar__section {
+  background: #efefef;
+}
+#ext_menu-1i .mbr-navbar__hamburger {
   color: #ffffff;
 }
-#menu-16 .mbr-brand__name {
+#ext_menu-1i .mbr-brand__name a {
+  font-family: 'Arimo', sans-serif;
+}
+#ext_menu-1i .mbr-navbar__items a {
+  font-family: 'Arimo', sans-serif;
+}
+
+
+#ext_menu-1i .mbr-brand__name {
   font-size: 16px;
 }
-#menu-16.mbr-navbar--stuck .mbr-navbar__section {
-  background: #2c2c2c;
+#ext_menu-1i.mbr-navbar--stuck .mbr-navbar__section {
+  background: #efefef;
 }
-#menu-16 .mbr-navbar__hamburger {
+#ext_menu-1i .mbr-navbar__section {
+  background: #efefef;
+}
+#ext_menu-1i .mbr-navbar__hamburger {
   color: #ffffff;
 }
+#ext_menu-1i .mbr-brand__name a {
+  font-family: 'Arimo', sans-serif;
+}
+#ext_menu-1i .mbr-navbar__items a {
+  font-family: 'Arimo', sans-serif;
+}
+
+
+#ext_menu-1i .mbr-brand__name {
+  font-size: 16px;
+}
+#ext_menu-1i.mbr-navbar--stuck .mbr-navbar__section {
+  background: #efefef;
+}
+#ext_menu-1i .mbr-navbar__section {
+  background: #efefef;
+}
+#ext_menu-1i .mbr-navbar__hamburger {
+  color: #ffffff;
+}
+#ext_menu-1i .mbr-brand__name a {
+  font-family: 'Arimo', sans-serif;
+}
+#ext_menu-1i .mbr-navbar__items a {
+  font-family: 'Arimo', sans-serif;
+}
+
+
+#ext_menu-1i .mbr-brand__name {
+  font-size: 16px;
+}
+#ext_menu-1i.mbr-navbar--stuck .mbr-navbar__section {
+  background: #efefef;
+}
+#ext_menu-1i .mbr-navbar__section {
+  background: #efefef;
+}
+#ext_menu-1i .mbr-navbar__hamburger {
+  color: #ffffff;
+}
+#ext_menu-1i .mbr-brand__name a {
+  font-family: 'Arimo', sans-serif;
+}
+#ext_menu-1i .mbr-navbar__items a {
+  font-family: 'Arimo', sans-serif;
+}
+
+
+#ext_menu-1i .mbr-brand__name {
+  font-size: 16px;
+}
+#ext_menu-1i.mbr-navbar--stuck .mbr-navbar__section {
+  background: #efefef;
+}
+#ext_menu-1i .mbr-navbar__section {
+  background: #efefef;
+}
+#ext_menu-1i .mbr-navbar__hamburger {
+  color: #ffffff;
+}
+#ext_menu-1i .mbr-brand__name a {
+  font-family: 'Arimo', sans-serif;
+}
+#ext_menu-1i .mbr-navbar__items a {
+  font-family: 'Arimo', sans-serif;
+}
+
+
+#ext_menu-1i .mbr-brand__name {
+  font-size: 16px;
+}
+#ext_menu-1i.mbr-navbar--stuck .mbr-navbar__section {
+  background: #efefef;
+}
+#ext_menu-1i .mbr-navbar__section {
+  background: #efefef;
+}
+#ext_menu-1i .mbr-navbar__hamburger {
+  color: #ffffff;
+}
+#ext_menu-1i .mbr-brand__name a {
+  font-family: 'Arimo', sans-serif;
+}
+#ext_menu-1i .mbr-navbar__items a {
+  font-family: 'Arimo', sans-serif;
+}
+
+
 #content5-1e .mbr-header .mbr-header__text {
   text-align: center;
-  color: #fff;
+  color: #ffffff;
 }
 #content5-1e .mbr-header .mbr-header__subtext {
   text-align: center;
@@ -80,6 +187,27 @@
 #content5-1e .mbr-article {
   color: #fff;
   text-align: center;
+}
+#content5-1e .mbr-article H2 {
+  color: #ffffff;
+}
+#ext_menu-1i .mbr-brand__name {
+  font-size: 16px;
+}
+#ext_menu-1i.mbr-navbar--stuck .mbr-navbar__section {
+  background: #efefef;
+}
+#ext_menu-1i .mbr-navbar__section {
+  background: #efefef;
+}
+#ext_menu-1i .mbr-navbar__hamburger {
+  color: #ffffff;
+}
+#ext_menu-1i .mbr-brand__name a {
+  font-family: 'Arimo', sans-serif;
+}
+#ext_menu-1i .mbr-navbar__items a {
+  font-family: 'Arimo', sans-serif;
 }
 
 
