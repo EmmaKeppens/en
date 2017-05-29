@@ -1,3 +1,5 @@
+@import url(https://fonts.googleapis.com/css?family=Roboto:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=PT+Sans:400,700);
 @import url(https://fonts.googleapis.com/css?family=Arimo:400,700);
 #header4-0 H1 {
   color: #ffffff;
@@ -7,13 +9,28 @@
 }
 
 
+
+
+
 #features1-s P {
   text-align: left;
 }
 #features1-11 P {
-  text-align: center;
+  text-align: left;
+  font-family: 'Roboto', sans-serif;
 }
 #features1-11 .mbr-section__col .mbr-header__text {
+  text-align: center;
+  color: #777777;
+}
+#features1-11 .mbr-section__col .mbr-header__text SPAN {
+  font-size: 16px;
+  color: #777777;
+  font-family: 'PT Sans', sans-serif;
+  text-align: right;
+}
+#features1-11 .mbr-section__col .mbr-header__text I {
+  font-family: 'Roboto', sans-serif;
   text-align: right;
 }
 #ext_menu-1f .mbr-brand__name {
@@ -32,26 +49,6 @@
   font-family: 'Arimo', sans-serif;
 }
 #ext_menu-1f .mbr-navbar__items a {
-  font-family: 'Arimo', sans-serif;
-}
-
-
-#ext_menu-1i .mbr-brand__name {
-  font-size: 16px;
-}
-#ext_menu-1i.mbr-navbar--stuck .mbr-navbar__section {
-  background: #efefef;
-}
-#ext_menu-1i .mbr-navbar__section {
-  background: #efefef;
-}
-#ext_menu-1i .mbr-navbar__hamburger {
-  color: #ffffff;
-}
-#ext_menu-1i .mbr-brand__name a {
-  font-family: 'Arimo', sans-serif;
-}
-#ext_menu-1i .mbr-navbar__items a {
   font-family: 'Arimo', sans-serif;
 }
 
