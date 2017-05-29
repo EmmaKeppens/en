@@ -11,7 +11,9 @@
     "uniqCompNum": 59,
     "versionPublish": "3.12.1",
     "favicon": "",
-    "noImageResize": ""
+    "noImageResize": "",
+    "google-analytics": "",
+    "cookiesAlert": "We use cookies to give you the best experience. Read our <a href='privacy.html'>cookie policy</a>."
   },
   "pages": {
     "index.html": {
@@ -34,7 +36,7 @@
           "_name": "header4",
           "_styles": {
             "H1": {
-              "color": "#ffffff"
+              "color": "#0036ff"
             },
             "P": {
               "color": "#ffffff"
@@ -44,7 +46,7 @@
           "_params": {
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/272a09185d9fe27a3ef613dbd591b37e-2000x2936.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/naamloos-2000x1413.jpg",
             "bgColor": "#4c6972",
             "bgColorRadio": false,
             "bgVideo": {
@@ -62,7 +64,7 @@
           },
           "title": "EMMA KEPPENS",
           "text": "Graphic Design",
-          "buttons": " <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default animated fadeInUp delay\" href=\"werk.html\" data-toolbar=\"-mbrBtnMove\">WORK</a>    <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default animated fadeInUp delay\" href=\"about.html\" data-toolbar=\"-mbrBtnMove\">ABOUT</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default animated fadeInUp delay\" href=\"about.html\" data-toolbar=\"-mbrBtnMove\">CONTACT</a>"
+          "buttons": " <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default animated fadeInUp delay\" href=\"werk.html\" data-toolbar=\"-mbrBtnMove\">WORK</a>    <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default animated fadeInUp delay\" href=\"about.html\" data-toolbar=\"-mbrBtnMove\">ABOUT</a> "
         }
       ]
     },
@@ -133,7 +135,7 @@
           "media2": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/schermafbeelding-2016-12-09-om-09-600x874-77.png",
+              "src": "@PROJECT_PATH@/assets/images/schermafbeelding-2017-04-19-om-15-600x837.jpg",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "",
@@ -176,7 +178,7 @@
             }
           },
           "title3": "PLATENHOES",
-          "caption3": "Music For Big Ears, an album cover.",
+          "caption3": "Music For Big Ears, album cover Charlemagne Palestine.",
           "button3": "<a data-app-btn=\"true\" href=\"platenhoes.html\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">MORE</a>",
           "media4": {
             "image": {
@@ -250,9 +252,24 @@
           "_name": "features1",
           "_styles": {
             "P": {
-              "text-align": "center"
+              "text-align": "left",
+              "font-family": "'Roboto', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
             },
             ".mbr-section__col .mbr-header__text": {
+              "text-align": "center",
+              "color": "#777777"
+            },
+            ".mbr-section__col .mbr-header__text SPAN": {
+              "font-size": "16px",
+              "color": "#777777",
+              "font-family": "'PT Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=PT+Sans:400,700",
+              "text-align": "right"
+            },
+            ".mbr-section__col .mbr-header__text I": {
+              "font-family": "'Roboto', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
               "text-align": "right"
             }
           },
@@ -286,7 +303,7 @@
           "media1": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/img-1289-600x400-90.jpg",
+              "src": "@PROJECT_PATH@/assets/images/img-600x400.jpg",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "",
@@ -352,7 +369,7 @@
               "size": 0
             }
           },
-          "title3": "ABC-DARIUM<br>&nbsp;A publication of 28 pages, where on each page a letter is considered. The theme of my ABCdarium is eroticism and sex.<br><br>",
+          "title3": "ABC-DARIUM<br><br><br><i style=\"font-weight: normal;\"><br>&nbsp;A publication of 28 pages, where on each page a letter is considered. The theme of my ABCdarium is eroticism and sex.</i><br><br>",
           "caption3": "",
           "button3": "<a data-app-btn=\"true\" href=\"abcdarium.html\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media4": {
@@ -492,7 +509,7 @@
                 "showTitle": true,
                 "title": "TRUMP–CLINTON / The New York Times / Chicago Tribune",
                 "showText": true,
-                "text": "A twenty-four pages counting newspaper, with as topic ‘Trump and Clinton’. &nbsp;A dingbat font, containing twenty-four pieces. The font was digitalized in Robofont.",
+                "text": "A twenty-four pages counting newspaper, with as topic ‘Trump and Clinton’. &nbsp;A dingbat font, containing twenty-four pieces. The font is digitalized in Robofont.",
                 "showButtons": false,
                 "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
@@ -559,10 +576,10 @@
             "paddingBottom": "3",
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/emma-2000x1370.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/2984672f7149fae5cb03378cafb8ff49-cartoon-pointing-finger-clipart-clipart-kid-pointing-finger-clipart-3126-2000x1159.png",
             "bgColor": "#efefef",
             "bgColorRadio": false,
-            "overlay": false,
+            "overlay": true,
             "overlayOpacity": 0.5,
             "overlayColor": "#222",
             "showTitle": true
@@ -667,19 +684,8 @@
                 "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
               {
-                "active": false,
-                "image": "@PROJECT_PATH@/assets/images/-mg-2000x1295.jpg",
-                "contentAlign": "center",
-                "showTitle": false,
-                "title": "Slide 2",
-                "showText": false,
-                "text": "Mobirise is based on Bootstrap 3 - most powerful mobile first framework. Use any bootstrap themes with no extra work.",
-                "showButtons": false,
-                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
-              },
-              {
                 "active": true,
-                "image": "@PROJECT_PATH@/assets/images/-mg-2000x1333.jpg",
+                "image": "@PROJECT_PATH@/assets/images/-mg-2000x1295.jpg",
                 "contentAlign": "center",
                 "showTitle": false,
                 "title": "Slide 2",
@@ -769,29 +775,29 @@
             "slides": [
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/schermafbeelding-2017-04-19-om-15-2000x2781.png",
-                "contentAlign": "right",
+                "image": "@PROJECT_PATH@/assets/images/schermafbeelding-2017-04-19-om-15-2000x2790.jpg",
+                "contentAlign": "center",
                 "showTitle": false,
-                "title": "Slide 1",
+                "title": "Slide 3",
                 "showText": false,
-                "text": "Develop fully responsive, mobile-optimized websites that look amazing on any devices and browsers. Preview how your website will appear on phones, tablets and desktops directly in the visual editor.",
-                "showButtons": false,
-                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
-              },
-              {
-                "active": true,
-                "image": "@PROJECT_PATH@/assets/images/schermafbeelding-2017-04-19-om-15-2000x2787.png",
-                "contentAlign": "left",
-                "showTitle": false,
-                "title": "Slide 2",
-                "showText": false,
-                "text": "Mobirise is based on Bootstrap 3 - most powerful mobile first framework. Use any bootstrap themes with no extra work.",
+                "text": "e.",
                 "showButtons": false,
                 "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/schermafbeelding-2017-04-19-om-15-2000x2787.png",
+                "image": "@PROJECT_PATH@/assets/images/schermafbeelding-2017-04-19-om-15-2000x2791.jpg",
+                "contentAlign": "center",
+                "showTitle": false,
+                "title": "Slide 3",
+                "showText": false,
+                "text": "e.",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": true,
+                "image": "@PROJECT_PATH@/assets/images/schermafbeelding-2017-04-19-om-15-2000x2785.jpg",
                 "contentAlign": "center",
                 "showTitle": false,
                 "title": "Slide 3",
@@ -881,7 +887,7 @@
             "slides": [
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/2-2000x1333.jpg",
+                "image": "@PROJECT_PATH@/assets/images/1-2000x1333.jpg",
                 "contentAlign": "left",
                 "showTitle": false,
                 "title": "Slide 2",
@@ -892,14 +898,14 @@
               },
               {
                 "active": true,
-                "image": "@PROJECT_PATH@/assets/images/1-2000x1333.jpg",
-                "contentAlign": "right",
-                "showTitle": true,
-                "title": "",
-                "showText": true,
-                "text": "",
+                "image": "@PROJECT_PATH@/assets/images/2-2000x1333.jpg",
+                "contentAlign": "left",
+                "showTitle": false,
+                "title": "Slide 2",
+                "showText": false,
+                "text": "Mobirise is based on Bootstrap 3 - most powerful mobile first framework. Use any bootstrap themes with no extra work.",
                 "showButtons": false,
-                "buttons": " <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR MAC</a>"
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
               }
             ],
             "showBullets": false
@@ -981,7 +987,7 @@
             "autoplay": false,
             "slides": [
               {
-                "active": false,
+                "active": true,
                 "image": "@PROJECT_PATH@/assets/images/img-1069-2000x3000-94.jpg",
                 "contentAlign": "right",
                 "showTitle": true,
@@ -993,76 +999,54 @@
               },
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/img-1079-2000x1333-95.jpg",
-                "contentAlign": "left",
-                "showTitle": false,
-                "title": "Slide 2",
-                "showText": false,
-                "text": "Mobirise is based on Bootstrap 3 - most powerful mobile first framework. Use any bootstrap themes with no extra work.",
-                "showButtons": false,
-                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
-              },
-              {
-                "active": false,
-                "image": "@PROJECT_PATH@/assets/images/img-1096-2000x1333-60.jpg",
-                "contentAlign": "center",
-                "showTitle": false,
-                "title": "Slide 3",
-                "showText": false,
-                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-                "showButtons": false,
-                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
-              },
-              {
-                "active": false,
-                "image": "@PROJECT_PATH@/assets/images/img-1097-2000x1333-75.jpg",
-                "contentAlign": "left",
-                "showTitle": false,
-                "title": "Slide 2",
-                "showText": false,
-                "text": "Mobirise is based on Bootstrap 3 - most powerful mobile first framework. Use any bootstrap themes with no extra work.",
-                "showButtons": false,
-                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
-              },
-              {
-                "active": false,
-                "image": "@PROJECT_PATH@/assets/images/img-1065-2000x1333-65.jpg",
-                "contentAlign": "center",
-                "showTitle": false,
-                "title": "Slide 3",
-                "showText": false,
-                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-                "showButtons": false,
-                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
-              },
-              {
-                "active": false,
-                "image": "@PROJECT_PATH@/assets/images/img-1080-2000x1333-4.jpg",
-                "contentAlign": "center",
-                "showTitle": false,
-                "title": "Slide 3",
-                "showText": false,
-                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-                "showButtons": false,
-                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
-              },
-              {
-                "active": false,
-                "image": "@PROJECT_PATH@/assets/images/img-1071-2000x1333-95.jpg",
-                "contentAlign": "left",
-                "showTitle": false,
-                "title": "Slide 2",
-                "showText": false,
-                "text": "Mobirise is based on Bootstrap 3 - most powerful mobile first framework. Use any bootstrap themes with no extra work.",
-                "showButtons": false,
-                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
-              },
-              {
-                "active": true,
-                "image": "@PROJECT_PATH@/assets/images/img-1040-2000x1333-19.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-2000x1333.jpg",
                 "contentAlign": "right",
-                "showTitle": false,
-                "title": "STONE TOWN",
+                "showTitle": true,
+                "title": "",
+                "showText": false,
+                "text": "Develop fully responsive, mobile-optimized websites that look amazing on any devices and browsers. Preview how your website will appear on phones, tablets and desktops directly in the visual editor.",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/img-1-2000x1333.jpg",
+                "contentAlign": "right",
+                "showTitle": true,
+                "title": "",
+                "showText": false,
+                "text": "Develop fully responsive, mobile-optimized websites that look amazing on any devices and browsers. Preview how your website will appear on phones, tablets and desktops directly in the visual editor.",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/img-2-2000x1333.jpg",
+                "contentAlign": "right",
+                "showTitle": true,
+                "title": "",
+                "showText": false,
+                "text": "Develop fully responsive, mobile-optimized websites that look amazing on any devices and browsers. Preview how your website will appear on phones, tablets and desktops directly in the visual editor.",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/img-2000x1334.jpg",
+                "contentAlign": "right",
+                "showTitle": true,
+                "title": "",
+                "showText": false,
+                "text": "Develop fully responsive, mobile-optimized websites that look amazing on any devices and browsers. Preview how your website will appear on phones, tablets and desktops directly in the visual editor.",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/img-3-2000x1333.jpg",
+                "contentAlign": "right",
+                "showTitle": true,
+                "title": "",
                 "showText": false,
                 "text": "Develop fully responsive, mobile-optimized websites that look amazing on any devices and browsers. Preview how your website will appear on phones, tablets and desktops directly in the visual editor.",
                 "showButtons": false,
@@ -1072,110 +1056,6 @@
             "showBullets": false
           },
           "_anchor": "slider2-14",
-          "articleLayout": true
-        },
-        {
-          "_inherit": "slider",
-          "_afterNavbarItem": ".mbr-slider",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "slider2",
-          "_params": {
-            "autoplay": false,
-            "slides": [
-              {
-                "active": false,
-                "image": "@PROJECT_PATH@/assets/images/img-1289-2000x1333-8.jpg",
-                "contentAlign": "right",
-                "showTitle": true,
-                "title": "At The Beach",
-                "showText": false,
-                "text": "Develop fully responsive, mobile-optimized websites that look amazing on any devices and browsers. Preview how your website will appear on phones, tablets and desktops directly in the visual editor.",
-                "showButtons": false,
-                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
-              },
-              {
-                "active": false,
-                "image": "@PROJECT_PATH@/assets/images/img-1221-2000x1333-89.jpg",
-                "contentAlign": "left",
-                "showTitle": false,
-                "title": "Slide 2",
-                "showText": false,
-                "text": "Mobirise is based on Bootstrap 3 - most powerful mobile first framework. Use any bootstrap themes with no extra work.",
-                "showButtons": false,
-                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
-              },
-              {
-                "active": false,
-                "image": "@PROJECT_PATH@/assets/images/img-1239-2000x1333-90.jpg",
-                "contentAlign": "center",
-                "showTitle": false,
-                "title": "Slide 3",
-                "showText": false,
-                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-                "showButtons": false,
-                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
-              },
-              {
-                "active": false,
-                "image": "@PROJECT_PATH@/assets/images/img-0694-2000x1333-78.jpg",
-                "contentAlign": "right",
-                "showTitle": false,
-                "title": "At The Beach",
-                "showText": false,
-                "text": "Develop fully responsive, mobile-optimized websites that look amazing on any devices and browsers. Preview how your website will appear on phones, tablets and desktops directly in the visual editor.",
-                "showButtons": false,
-                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
-              },
-              {
-                "active": false,
-                "image": "@PROJECT_PATH@/assets/images/img-0675-2000x1821-2.jpg",
-                "contentAlign": "right",
-                "showTitle": false,
-                "title": "At The Beach",
-                "showText": false,
-                "text": "Develop fully responsive, mobile-optimized websites that look amazing on any devices and browsers. Preview how your website will appear on phones, tablets and desktops directly in the visual editor.",
-                "showButtons": false,
-                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
-              },
-              {
-                "active": false,
-                "image": "@PROJECT_PATH@/assets/images/img-1215-2000x1333-93.jpg",
-                "contentAlign": "right",
-                "showTitle": false,
-                "title": "At The Beach",
-                "showText": false,
-                "text": "Develop fully responsive, mobile-optimized websites that look amazing on any devices and browsers. Preview how your website will appear on phones, tablets and desktops directly in the visual editor.",
-                "showButtons": false,
-                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
-              },
-              {
-                "active": false,
-                "image": "@PROJECT_PATH@/assets/images/img-1308-2000x1333-12.jpg",
-                "contentAlign": "right",
-                "showTitle": false,
-                "title": "At The Beach",
-                "showText": false,
-                "text": "Develop fully responsive, mobile-optimized websites that look amazing on any devices and browsers. Preview how your website will appear on phones, tablets and desktops directly in the visual editor.",
-                "showButtons": false,
-                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
-              },
-              {
-                "active": true,
-                "image": "@PROJECT_PATH@/assets/images/img-0651-copy-2000x1333-93.jpg",
-                "contentAlign": "right",
-                "showTitle": false,
-                "title": "At The Beach",
-                "showText": false,
-                "text": "Develop fully responsive, mobile-optimized websites that look amazing on any devices and browsers. Preview how your website will appear on phones, tablets and desktops directly in the visual editor.",
-                "showButtons": false,
-                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
-              }
-            ],
-            "showBullets": false
-          },
-          "_anchor": "slider2-15",
           "articleLayout": true
         },
         {
@@ -1255,7 +1135,7 @@
             "autoplay": false,
             "slides": [
               {
-                "active": true,
+                "active": false,
                 "image": "@PROJECT_PATH@/assets/images/dscf3979-2000x2225.jpg",
                 "contentAlign": "right",
                 "showTitle": false,
@@ -1277,7 +1157,7 @@
                 "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
               {
-                "active": false,
+                "active": true,
                 "image": "@PROJECT_PATH@/assets/images/emma-4-2000x1559.jpg",
                 "contentAlign": "center",
                 "showTitle": false,
@@ -1291,132 +1171,6 @@
             "showBullets": false
           },
           "_anchor": "slider2-19",
-          "articleLayout": true
-        },
-        {
-          "_inherit": "menu",
-          "_tags": [
-            "Theme"
-          ],
-          "_styles": {
-            ".mbr-brand__name": {
-              "font-size": "16px"
-            },
-            "&.mbr-navbar--stuck .mbr-navbar__section": {
-              "background": "#efefef"
-            },
-            ".mbr-navbar__section": {
-              "background": "#efefef"
-            },
-            ".mbr-navbar__hamburger": {
-              "color": "#ffffff"
-            },
-            ".mbr-brand__name a": {
-              "font-family": "'Arimo', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Arimo:400,700"
-            },
-            ".mbr-navbar__items a": {
-              "font-family": "'Arimo', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Arimo:400,700"
-            }
-          },
-          "_name": "ext.menu",
-          "_anchor": "ext_menu-1i",
-          "_params": {
-            "color": "#efefef",
-            "hamburgerColor": "#ffffff",
-            "transparent": false,
-            "sticky": false,
-            "collapsed": false,
-            "logo": false,
-            "showBrand": true,
-            "showButtons": false
-          },
-          "logo": {
-            "image": {
-              "active": true,
-              "src": "images/logo.png",
-              "class": "mbr-navbar__brand-img mbr-brand__img",
-              "height": 128,
-              "alt": "Mobirise",
-              "link": "https://mobirise.com"
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-menu",
-              "link": "https://mobirise.com",
-              "size": 0
-            }
-          },
-          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"index.html\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">EMMA KEPPENS</a>",
-          "items": " <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"werk.html\">WORK</a></li> ",
-          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">DOWNLOAD</a></li>"
-        }
-      ]
-    },
-    "trumpcomics.html": {
-      "settings": {
-        "title": "Site Generator Title",
-        "meta_descr": "Site Generator Description"
-      },
-      "components": [
-        {
-          "_inherit": "slider",
-          "_afterNavbarItem": ".mbr-slider",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "slider2",
-          "_params": {
-            "autoplay": false,
-            "slides": [
-              {
-                "active": false,
-                "image": "@PROJECT_PATH@/assets/images/-mg-1-2000x1333.jpg",
-                "contentAlign": "right",
-                "showTitle": false,
-                "title": "Slide 1",
-                "showText": false,
-                "text": "Develop fully responsive, mobile-optimized websites that look amazing on any devices and browsers. Preview how your website will appear on phones, tablets and desktops directly in the visual editor.",
-                "showButtons": false,
-                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
-              },
-              {
-                "active": false,
-                "image": "@PROJECT_PATH@/assets/images/-mg-2-2000x1333.jpg",
-                "contentAlign": "left",
-                "showTitle": false,
-                "title": "Slide 2",
-                "showText": false,
-                "text": "Mobirise is based on Bootstrap 3 - most powerful mobile first framework. Use any bootstrap themes with no extra work.",
-                "showButtons": false,
-                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
-              },
-              {
-                "active": false,
-                "image": "@PROJECT_PATH@/assets/images/-mg-3-2000x1333.jpg",
-                "contentAlign": "center",
-                "showTitle": false,
-                "title": "Slide 3",
-                "showText": false,
-                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-                "showButtons": false,
-                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
-              },
-              {
-                "active": true,
-                "image": "@PROJECT_PATH@/assets/images/-mg-4-2000x1333.jpg",
-                "contentAlign": "center",
-                "showTitle": false,
-                "title": "Slide 3",
-                "showText": false,
-                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-                "showButtons": false,
-                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
-              }
-            ],
-            "showBullets": false
-          },
-          "_anchor": "slider2-1c",
           "articleLayout": true
         },
         {
@@ -1782,8 +1536,8 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">EMMA KEPPENS</a>",
-          "items": " <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\">HOME</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">CONTACT</a></li>",
+          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"index.html\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">EMMA KEPPENS</a>",
+          "items": " <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"werk.html\">WORK</a></li> ",
           "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">DOWNLOAD</a></li>"
         }
       ]
